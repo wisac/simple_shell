@@ -1,1 +1,1 @@
-We created a simple shell program
+# 0x16. C - Simple Shell Team Project
