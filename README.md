@@ -1,3 +1,1 @@
-# simple_shell
-
-We created a project for a simple shell interpreter
+# 0x16. C - Simple Shell Team Project
