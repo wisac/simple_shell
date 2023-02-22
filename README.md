@@ -1,1 +1,1 @@
-# 0x16. C - Simple Shell Team Project
+We created a simple shell program that runs in a linux environment
