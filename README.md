@@ -1,1 +1,1 @@
-# 0x16. C - Simple Shell Team Project
+Initials project dir
