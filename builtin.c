@@ -32,7 +32,6 @@ int handle_exit(info_t *info)
 * handle_cd - changes the current directory of the process
 * @info: Structure containing potential arguments. Used to maintain
 * constant function prototype.
-*
 * Return: Always 0
 */
 int handle_cd(info_t *info)
@@ -83,7 +82,6 @@ int handle_cd(info_t *info)
 * handle_help - changes the current directory of the process
 * @info: Structure containing potential arguments. Used to maintain
 * constant function prototype.
-*
 * Return: Always 0
 */
 int handle_help(info_t *info)
